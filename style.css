@@ -3,6 +3,10 @@ body {
     font-size: 12px;
     max-width: 960px;
     margin: auto;
+    border: black;
+    border-width: 1px;
+    border-style: solid;
+    
 }
 h1 {
     
